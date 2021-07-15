@@ -1,0 +1,6 @@
+--> CREATE DATABASE name;
+--> USE name;
+--> SOURCE file_path/file.sql;
+
+
+-->> go with what you want now !! ;
